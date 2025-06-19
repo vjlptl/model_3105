@@ -53,7 +53,7 @@ import random
 ## OPENAI ##
 ############
 
-os.environ["OPENAI_API_KEY"] = "sk-SggkFnSnWfZSBSKV6In0nS7NDOPWO-XNIBEsZ7VBwBT3BlbkFJw8YfDZ0BYSFawnTHgAkRn0qFf0DtuRdk9i1adYh4YA"
+os.environ["OPENAI_API_KEY"] = "ABCD"
 
 ###############
 ## LANGCHAIN ##
@@ -61,7 +61,7 @@ os.environ["OPENAI_API_KEY"] = "sk-SggkFnSnWfZSBSKV6In0nS7NDOPWO-XNIBEsZ7VBwBT3B
 
 os.environ["LANGCHAIN_TRACING_V2"]="true"
 os.environ["LANGCHAIN_ENDPOINT"]="https://api.smith.langchain.com"
-os.environ["LANGCHAIN_API_KEY"]="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"
+os.environ["LANGCHAIN_API_KEY"]="ABCD"
 
 """
 
