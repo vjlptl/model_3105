@@ -49,20 +49,6 @@ import sys
 import os
 import random
 
-############
-## OPENAI ##
-############
-
-os.environ["OPENAI_API_KEY"] = "ABCD"
-
-###############
-## LANGCHAIN ##
-###############
-
-os.environ["LANGCHAIN_TRACING_V2"]="true"
-os.environ["LANGCHAIN_ENDPOINT"]="https://api.smith.langchain.com"
-os.environ["LANGCHAIN_API_KEY"]="ABCD"
-
 """
 
 ---
